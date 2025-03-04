@@ -30,3 +30,6 @@
 - 🤖 AI fascinates me, but I haven't trained any evil robots… yet!
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yujo11/yujo11/blob/output/github-contribution-grid-snake.gif"><img src="https://github.com/yujo11/yujo11/raw/output/github-contribution-grid-snake.gif" alt="snake gif" data-animated-image="" style="max-width: 100%;"></a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragul2102&show_icons=true&theme=radical)
+
