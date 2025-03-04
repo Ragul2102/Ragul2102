@@ -33,6 +33,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragul2102&show_icons=true&theme=radical)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=FFD700&width=435&lines=Hello%2C+I'm+YourName!;Welcome+to+my+GitHub+Profile!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=FFD700&width=435&lines=Hello%2C+I'm+Ragul!;Welcome+to+my+GitHub+Profile!)
 
 
