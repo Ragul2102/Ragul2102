@@ -35,4 +35,5 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=FFD700&width=435&lines=Hello%2C+I'm+Ragul!;Welcome+to+my+GitHub+Profile!)
 
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YourSpotifyID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
